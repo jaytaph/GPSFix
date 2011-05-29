@@ -1,0 +1,11 @@
+Simple GPS Locator service for android
+
+This will fetch your location (GPS) at certain intervals (around a minute), and
+pushes it to a website (<site>/setcoords.php?lat=X&long=Y.
+
+You can there do whatever you want with the data.
+
+Needed for a bicycle tour to provide people at home with up-to-date information 
+about our current position.
+
+Any remarks, comments etc, mail me at jthijssen@noxlogic.nl
